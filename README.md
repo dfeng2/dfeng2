@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Feng
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C# in Unity
-- 💞️ I’m looking to collaborate
+- 💞️ I’m looking to collaborate!
 - 📫 How to reach me : work.david.feng@gmail.com
 
 <!---
